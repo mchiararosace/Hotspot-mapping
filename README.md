@@ -13,8 +13,3 @@ Files included are:
 * `mode_select.R`: Function for model selection based on DIC and WAIC criteria
 
 * `Correlation and maps.R`: correlation matrix and maps
-
-You will also need to download an `.RData` file before running the above-mentioned files in R. After downloading it, add it to the folder "data" on your computer.
-This large data file, named `data.RData`, is available for download from Dropbox at the following link:
-
-[Download data.RData](https://www.dropbox.com/scl/fi/4fbtgnhnpycou97t3do77/data.RData?rlkey=x1gstn0sg6g4nxhsdrmg9s4vm&st=dqw4la47&dl=0)
