@@ -1,7 +1,8 @@
-# `R` code for Hotspot-analysis with Bayesian hierarchical spatial models
+# `R` code for Hotspot mapping with Bayesian hierarchical spatial models
 
-This is the R code associated with our paper:
-[_"Spatial modelling of hotspots for plant pests’ introductions in the EU using regionalized data" #add correct reference_]  
+This is the R code associated with our paper titled "Hotspot mapping of pest introductions in the EU: A regional analysis of environmental, anthropogenic and spatial effects", currently submitted to _Biological Invasions_.
+
+Authors: Maria Chiara Rosace, David V. Conesa, Antonio López-Quílez, Lorenzo Marini, Miguel A. Martinez-Beneito, Davide Nardi, Vittorio Rossi, Antonio Vicent, Martina Cendoya
 
 The paper describes the use of a Bayesian hierarchical spatial model to assess areas of higher risk by including covariates and random effects to borrow information from neighbouring areas. 
 
