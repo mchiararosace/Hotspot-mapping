@@ -10,8 +10,8 @@ Files included are:
 
 * `models_run.R`: data preparation, neighbourhood structure creation, model selection, and Bayesian hierarchical modelling, for studying plant pest introductions across various regions (NUTS2) in the EU.
 
-* `mode_select.R`: Function for model selection based on DIC and WAIC criteria
+* `mode_select.R`: Function for model selection based on DIC and WAIC criteria.
 
-* `Correlation and maps.R`: correlation matrix and maps
+* `Correlation and maps.R`: correlation matrix and maps.
 
 Cite the code using: ADD DOI HERE
