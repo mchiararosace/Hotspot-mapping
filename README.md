@@ -1,6 +1,6 @@
 # `R` code for hotspot mapping with Bayesian hierarchical spatial models
 
-This is the R code associated with the paper titled "Hotspot mapping of pest introductions in the EU: A regional analysis of environmental, anthropogenic and spatial effects", currently submitted to _Biological Invasions_.
+This is the R code associated with the paper titled "Hotspot mapping of pest introductions in the EU: A regional analysis of environmental, anthropogenic and spatial effects".
 
 Authors: Maria Chiara Rosace, David V. Conesa, Antonio López-Quílez, Lorenzo Marini, Miguel A. Martinez-Beneito, Davide Nardi, Vittorio Rossi, Antonio Vicent, Martina Cendoya
 
