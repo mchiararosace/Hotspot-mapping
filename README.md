@@ -8,8 +8,10 @@ The paper describes the use of a Bayesian hierarchical spatial model to assess a
 
 Files included are:
 
-* `models_run.R`: data preparation, neighborhood structure creation, model selection, and Bayesian hierarchical modeling, for studying plant pest introductions across various regions (NUTS2) in the EU. Please note that INLA is not available on CRAN, so you will need to install it manually in R when using the 'models_run' file. You can download it from: https://www.r-inla.org/download-install
+* `models_run.R`: data preparation, neighbourhood structure creation, model selection, and Bayesian hierarchical modelling, for studying plant pest introductions across various regions (NUTS2) in the EU. Please note that INLA is not available on CRAN, so you will need to install it manually in R when using the 'models_run' file. You can download it from: https://www.r-inla.org/download-install
 
 * `mode_select.R`: Function for model selection based on DIC and WAIC criteria
 
 * `Correlation and maps.R`: correlation matrix and maps
+
+Cite the code using: ADD DOI HERE
