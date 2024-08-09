@@ -14,4 +14,4 @@ Files included are:
 
 * `Correlation and maps.R`: correlation matrix and maps.
 
-Cite the code using: ADD DOI HERE
+Cite the code using: [![DOI](https://zenodo.org/badge/803205533.svg)](https://zenodo.org/doi/10.5281/zenodo.13283845)
